@@ -1,1 +1,1 @@
-# Fault-Detection-in-Transmission-line-using-MATLAB
+# Fault-Detection-in-Transmission-lines-using-MATLAB
